@@ -29,7 +29,7 @@
 
 ### 第二步：CC Switch 添加 Tavily MCP
 
-1. 打开 **CC Switch** → 左侧导航 **Extensions** → **MCP** 标签页
+1. 打开 **CC Switch** →  **MCP管理** 标签页
 2. 点击 **「添加 MCP」**
 3. 填写：
 
