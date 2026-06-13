@@ -1,0 +1,13 @@
+# 私密配置文件
+*.local.json
+.claude.json
+settings.json
+
+# API Key 和环境变量
+.env
+.env.local
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
